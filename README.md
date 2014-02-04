@@ -25,6 +25,7 @@ I wrote this tool thinking on Windows users that don't know how to use Power She
 3. Double click the generated binary file.
 
 **Using the binary file**
+
 1. Download the binary file. You can do it from here [Directory Tree Windows](https://github.com/LagrangianPoint/Directory-Tree-Visual-Basic/raw/master/Directory%20Tree/Directory%20Tree/bin/Debug/Directory%20Tree.zip )
 2. Double click to run it.
 3. Select which directory to scan.
