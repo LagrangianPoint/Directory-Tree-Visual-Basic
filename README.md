@@ -20,6 +20,7 @@ I wrote this tool thinking on Windows users that don't know how to use Power She
 ## Usage
 
 **Compiling Project**
+
 1. Double click *Directory Tree.sln* so Visual Studio Express [or better] can open the project.
 2. Compile the project to create a binary file.
 3. Double click the generated binary file.
