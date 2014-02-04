@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DirectoryTree
+</name>
+</assembly>
+<members>
+<member name="P:Directory_Tree.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Directory_Tree.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Directory_Tree.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:Directory_Tree.FileHelper.GetFilesRecursive(System.String)">
+	<summary>
+ Returns a list of all the files found in a directory recursively.
+ </summary>
+	<param name="strInitialDir">Initial directory to start the scan</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:Directory_Tree.FileHelper">
+	<summary>
+ This class contains directory helper functions
+ 
+ Based from: http://www.dotnetperls.com/recursive-file-directory-vbnet
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
