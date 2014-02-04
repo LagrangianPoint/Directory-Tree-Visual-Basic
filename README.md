@@ -1,7 +1,7 @@
 Directory Tree (Visual Vasic)
 =====================
 
-It is a Python script for getting a text of the files contained in a directory. 
+It is a Visual Basic tool for getting a text of the files contained in a directory. 
 
 This is helpful on Windows when you want to store a list of all the files you'll backup in a CD or DVD.
 
